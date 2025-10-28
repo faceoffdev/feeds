@@ -1,9 +1,9 @@
 <realty-feed>
     <offer>
         <!-- ID в фиде, обязательно -->
-        <internal_id>50121965</internal_id>
+        <internal_id>50074948</internal_id>
         <!-- Ссылка на объект на сайте, необязательно -->
-        <link>https://crm-test.topnlab.ru/object-card/50121965</link>
+        <link>https://crm-test.topnlab.ru/object-card/50074948</link>
         <!-- ID на сайте, необязательно -->
         <source_id>50121965</source_id>
         <!-- Количество просмотров, необязательно -->
