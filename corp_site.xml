@@ -1,12 +1,44 @@
 <realty-feed>
-    <offer>
-        <!-- ID в фиде, обязательно -->
-        <internal_id>50405077</internal_id>
-        <!-- Ссылка на объект на сайте, необязательно -->
-        <link>https://crm-test.topnlab.ru/object-card/50405077</link>
-        <!-- ID на сайте, необязательно -->
-        <source_id>50121965</source_id>
-        <!-- Количество просмотров, необязательно -->
-        <view>228</view>
-    </offer>
+<offer>
+<internal_id>50405153</internal_id>
+<link>https://www.kinopoisk.ru/?utm_referrer=organic.kinopoisk.ru</link>
+<source_id>50405153</source_id>
+<view>1</view>
+</offer>
+<offer>
+<internal_id>50405125</internal_id>
+<link>https://feed-p.topnlab.ru/examples/corp_site.xml</link>
+<source_id>0</source_id>
+<view>9999</view>
+</offer>
+<offer>
+<internal_id>50405114</internal_id>
+<link></link>
+<source_id></source_id>
+<view></view>
+</offer>
+<offer>
+<internal_id>49995498</internal_id>
+<link>https://login.topnlab.ru/</link>
+<source_id>000</source_id>
+<view>55</view>
+</offer>
+<offer>
+<view>000</view>
+<internal_id>49908301</internal_id>
+<source_id>49908301</source_id>
+<link>----</link>
+</offer>
+<offer>
+<internal_id>49908299</internal_id>
+<link>https://share.google/images/4Zpi7mRAds7xNr5Dn</link>
+<source_id>784373473</source_id>
+<view>22</view>
+</offer>
+<offer>
+<internal_id>49908299</internal_id>
+<link>https://calendar.360.yandex.ru/week?show_date=2025-11-01&amp;uid=1130000067096954</link>
+<source_id>784373473</source_id>
+<view>33</view>
+</offer>
 </realty-feed>
